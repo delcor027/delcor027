@@ -16,4 +16,4 @@
   <img align="center" alt="Delcor-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
-![snake gif](https://github.com/delcor027/delcor027/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/delcor027/delcor027/blob/main/github-contribution-grid-snake.svg)
